@@ -1,7 +1,7 @@
 body {
   margin: auto;
   width: 50%;
-  max-width: 800px;
+  max-width: 1,000px;
   min-width: 300px;
   padding-top: 80px;
   padding-bottom: 80px;
@@ -12,7 +12,7 @@ body {
 
 h1 {
   color: black;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 400;
 }
 
