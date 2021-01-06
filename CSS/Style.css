@@ -60,7 +60,7 @@ p {
   border:none;
   position:relative;
   height:40px;
-  font-size:1em;
+  font-size:.75em;
   padding:0 2em;
   cursor:pointer;
   transition:800ms ease all;
