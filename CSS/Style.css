@@ -15,6 +15,7 @@ h1 {
   color: black;
   font-size: 50px;
   font-weight: 400;
+  text-align: center;
 }
 
 h2 {
@@ -38,10 +39,6 @@ h2 {
   padding-top: 1px;
   padding-bottom: 10px;
 }
-
-.Name{
-	text-align: center
-	}
 
   /* Create two equal columns that floats next to each other */
 .column {
