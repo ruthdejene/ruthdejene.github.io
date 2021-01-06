@@ -1,0 +1,98 @@
+body {
+  background-color: white;
+  margin: auto;
+  width: 70%;
+  max-width: 1,000px;
+  min-width: 300px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: 400;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-size: 27px;
+  font-weight: 450;
+  line-height: 15px;
+}
+
+.headshot {
+  width: 57%;
+  min-width: 100px;
+  text-align: center;
+  image-orientation: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.block {
+  padding-top: 1px;
+  padding-bottom: 10px;
+}
+
+  /* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+p {
+  font-size: 20px
+}
+
+.resume_btn{
+  background:black;
+  color:#fff;
+  border:none;
+  position:relative;
+  height:40px;
+  font-size:.75em;
+  padding:0 2em;
+  cursor:pointer;
+  transition:800ms ease all;
+  outline:none;
+}
+
+.resume_btn:hover{
+  background:#fff;
+  color:black;
+}
+
+.resume_btn:before,.resume_btn:after{
+  content:'';
+  position:absolute;
+  top:0;
+  right:0;
+  height:2px;
+  width:0;
+  background: black;
+  transition:400ms ease all;
+}
+
+.resume_btn:after{
+  right:inherit;
+  top:inherit;
+  left:0;
+  bottom:0;
+}
+
+.resume_btn:hover:before,.resume_btn:hover:after{
+  width:100%;
+  transition:800ms ease all;
+}
+
+.resume_btn:focus{
+  outline: 0;
+}
