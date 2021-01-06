@@ -23,8 +23,8 @@ h2 {
   line-height: 15px;
 }
 
-#headshot {
-  width: 30%;
+.headshot {
+  width: 100%;
   min-width: 100px;
   text-align: center;
   image-orientation: center;
