@@ -173,3 +173,7 @@ li {
   align-self: center;
   align-content: center;
 }
+
+.end {
+  text-align: center;
+}
