@@ -11,12 +11,8 @@ body {
   font-weight: 300;
 }
 
-.head {
-  background-color: black;
-}
-
 h1 {
-  color: White;
+  color: black;
   font-size: 60px;
   font-weight: 450;
   text-align: center;
