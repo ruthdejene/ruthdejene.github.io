@@ -128,27 +128,32 @@ li {
   font-size: 30px;
   padding: 0px;
   margin-right: 15px;
+  align-content: center;
 }
 
 .fa-facebook{
   color: Black;
   outline: none;
   align-items: center;
+  opacity: 0.7
 }
 
 .fa-snapchat{
   color: Black;
   align-items: center;
+  opacity: 0.7
 }
 
 .fa-linkedin{
   color: black;
   align-items: center;
+  opacity: 0.7
 }
 
 .fa-instagram{
   color: Black;
   align-items: center;
+  opacity: 0.7
 }
 
 .social_media_icons {
