@@ -43,6 +43,7 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   display: block;
+  content: center;
 }
 
 .block {
@@ -113,5 +114,5 @@ li {
 }
 
 .gallery {
-  width: 100%;
+  width: 90%;
 }
