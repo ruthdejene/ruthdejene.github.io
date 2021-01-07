@@ -150,3 +150,7 @@ li {
   color: #C13584;
   align-items: center;
 }
+
+.social_media_icons {
+  align-self: center;
+}
