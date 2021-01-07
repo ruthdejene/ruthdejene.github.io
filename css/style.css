@@ -110,7 +110,3 @@ li {
 .resume_btn:focus{
   outline: 0;
 }
-
-.resume_separator {
-  line-height: 20px
-}
