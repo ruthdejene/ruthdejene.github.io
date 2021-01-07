@@ -133,16 +133,20 @@ li {
 .fa-facebook{
   color: #3b5998;
   outline: none;
+  align-items: center;
 }
 
-.fa-github{
-  color: black;
+.fa-snapchat{
+  color: Yellow;
+  align-items: center;
 }
 
 .fa-linkedin{
   color: #0077B5;
+  align-items: center;
 }
 
 .fa-instagram{
   color: #C13584;
+  align-items: center;
 }
