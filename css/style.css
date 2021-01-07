@@ -122,3 +122,27 @@ li {
   width: 85%;
   align-content: center;
 }
+
+/*Social Media Icons*/
+.btn{
+  font-size: 30px;
+  padding: 0px;
+  margin-right: 15px;
+}
+
+.fa-facebook{
+  color: #3b5998;
+  outline: none;
+}
+
+.fa-github{
+  color: black;
+}
+
+.fa-linkedin{
+  color: #0077B5;
+}
+
+.fa-instagram{
+  color: #C13584;
+}
