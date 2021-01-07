@@ -111,3 +111,7 @@ li {
 .resume_btn:focus{
   outline: 0;
 }
+
+.gallery {
+  width: 20%
+}
